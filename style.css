@@ -28,6 +28,7 @@ a:hover { color: #ffffff; }
   color: #121212;
   border-radius: 8px;
   font-weight: bold;
+  display: inline-block;
 }
 .story-header {
   text-align: center;

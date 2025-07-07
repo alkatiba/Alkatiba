@@ -29,25 +29,7 @@ a:hover { color: #ffffff; }
   border-radius: 8px;
   font-weight: bold;
   display: inline-block;
-}
-.story-header {
-  text-align: center;
-  padding: 40px 20px 10px;
-}
-.cover {
-  width: 90%;
-  max-width: 600px;
-  border-radius: 16px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.5);
-}
-.story-header h1 {
-  color: #ffcc00;
-  font-size: 32px;
-  margin: 10px 0;
-}
-.story-header h2 {
-  font-size: 22px;
-  color: #bbbbbb;
+  margin: 5px;
 }
 .story-content {
   padding: 30px 20px;
@@ -55,4 +37,8 @@ a:hover { color: #ffffff; }
   margin: auto;
   background-color: #1a1a1a;
   border-radius: 10px;
+}
+.story-content h2 {
+  color: #ffcc00;
+  margin-top: 0;
 }
